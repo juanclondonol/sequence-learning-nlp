@@ -4,7 +4,7 @@ This module focuses on training a fine-tuned conditional text-to-text transforme
 
 The production model is deployed and accessible on the Hugging Face Hub:
 
-Model Hub: [Seq2Seq_Summarization_Models](https://huggingface.co/models/jclondonol/t5-arxiv-summarization-final)
+Model Hub: [Seq2Seq_Summarization_Models](https://huggingface.co/jclondonol/t5-arxiv-summarization-final)
 
 
 
